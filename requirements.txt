@@ -1,0 +1,2 @@
+# Requires: hypothetical-potential
+# (Not available on PyPI)
